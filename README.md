@@ -40,17 +40,20 @@ To get started with the project, follow these steps:
 2.Navigate to the project directory:
 
   cd Restaurant-Frotened
-3.Install the dependencies:
 
-  npm install
+  
+3.Install the dependencies:
+   npm install
   
 4.Set up your payment gateway:
 
 Follow the documentation for your chosen payment provider (e.g., Stripe, PayPal) to obtain your API keys and configure your environment.
 
+
 5.Start the development server:
 
   npm run dev.
+
 
 ##Usage
 Once the development server is running, you can access the application at your local port.
