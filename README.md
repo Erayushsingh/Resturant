@@ -44,6 +44,8 @@ To get started with the project, follow these steps:
 
   
 3.Install the dependencies:
+
+   ```bash
    npm install
   
 4.Set up your payment gateway:
@@ -53,14 +55,14 @@ Follow the documentation for your chosen payment provider (e.g., Stripe, PayPal)
 
 5.Start the development server:
 
+  ```bash
   npm run dev.
 
-
-##Usage
+## Usage
 
 Once the development server is running, you can access the application at your local port.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request for any improvements, features, or bug fixes.
 
