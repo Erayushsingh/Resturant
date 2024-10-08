@@ -45,8 +45,8 @@ To get started with the project, follow these steps:
   
 3.Install the dependencies:
 
-   ```bash
-   npm install
+  ```bash
+  npm install
   
 4.Set up your payment gateway:
 
