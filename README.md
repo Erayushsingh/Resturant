@@ -39,6 +39,7 @@ To get started with the project, follow these steps:
 
 2.Navigate to the project directory:
 
+  ```bash
   cd Restaurant-Frotened
 
   
@@ -56,9 +57,11 @@ Follow the documentation for your chosen payment provider (e.g., Stripe, PayPal)
 
 
 ##Usage
+
 Once the development server is running, you can access the application at your local port.
 
 ##Contributing
+
 Contributions are welcome! Please fork the repository and create a pull request for any improvements, features, or bug fixes.
 
 
