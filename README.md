@@ -9,7 +9,7 @@ Welcome to the Restaurant Frontend App! This application provides a seamless and
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -47,18 +47,17 @@ To get started with the project, follow these steps:
    ```bash
    npm install
 
+4. Set up your payment gateway:
 
+   
+  Follow the documentation for your chosen payment provider (e.g., Stripe) to obtain your API keys and configure your environment.
+   
 
-  
-4.Set up your payment gateway:
+5. Start the development server:
 
-Follow the documentation for your chosen payment provider (e.g., Stripe, PayPal) to obtain your API keys and configure your environment.
+   ```bash
+   npm run dev
 
-
-5.Start the development server:
-
-  ```bash
-  npm run dev.
 
 ## Usage
 
