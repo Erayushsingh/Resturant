@@ -37,16 +37,18 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/YourUsername/Restaurant-Frotened.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
-  ```bash
-  cd Restaurant-Frotened
+   ```bash
+   cd Restaurant-Frotened
+   
+3. Install the dependencies:
 
-  
-3.Install the dependencies:
+   ```bash
+   npm install
 
-  ```bash
-  npm install
+
+
   
 4.Set up your payment gateway:
 
